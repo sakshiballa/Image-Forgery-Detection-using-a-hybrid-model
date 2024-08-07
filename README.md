@@ -1,4 +1,4 @@
-IMAGE FORGERY DETECTION:
+                                                                              IMAGE FORGERY DETECTION:
 “Image Forgery Detection using Hybrid Model” aims to significantly improve the precision and reliability of identifying image manipulations through the integration of advanced machine learning techniques. The project revolves around the use of a comprehensive dataset featuring diverse images, encompassing both authentic and manipulated samples, for training the detection model.
 
 This project uses a hybrid algorithm made up of SVM and VGG16 to deliver accuracy in forgery detections.
